@@ -5,8 +5,8 @@ This is a sample plugin to demonstrate how you can write extentions (plugins) wi
 Plugin Structure: 
 ```
 assets/
-      /js   
-      /css  Holds plugin CSS Files
+      /src/js   
+      /src/scss  Holds plugin CSS Files
       
 widgets/
       /hello-world.php
