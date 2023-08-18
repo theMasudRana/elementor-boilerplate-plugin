@@ -18,7 +18,7 @@ exit; // Exit if accessed directly
 /**
  * Main Elementor Boilerplate Plugin Class
  *
- * The init class that runs the Hello World plugin.
+ * The init class that runs the Elementor Boilerplate Plugin.
  * Intended To make sure that the plugin's minimum requirements are met.
  *
  * You should only modify the constants to match your plugin's needs.
