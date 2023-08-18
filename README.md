@@ -19,8 +19,8 @@ plugin.php
 
 
 * `assets` directory - holds plugin JavaScript and CSS assets
-  * `/js` directory - Holds plugin Javascript Files
-  * `/css` directory - Holds plugin CSS Files
+  * `/src/js` directory - Holds plugin Javascript Files
+  * `/src/css` directory - Holds plugin CSS Files
 * `widgets` directory - Holds Plugin widgets
   * `/hello-world.php` - Hello World demo Widget class
   * `/inline-editing.php` - Inline Editing demo Widget class
