@@ -1,0 +1,1 @@
+"use strict";var _component=_interopRequireDefault(require("./words-counter/component.js"));function _interopRequireDefault(e){return e&&e.__esModule?e:{default:e}}$e.components.register(new _component.default);
